@@ -1,0 +1,6 @@
+site_name: Documentacion Markdawn y Mkdocs
+theme: 
+  name: 'mkdocs'  
+nav:
+  - Inicio: index.md
+  - MemoriaMk: memoria.md
